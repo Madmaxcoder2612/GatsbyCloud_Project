@@ -5,6 +5,7 @@ description: "Hello MadMax"
 ---
 
 This is my first post on my new fake blog! How exciting!
+Its like learning something new and gaining powers to deploy a product or blog by yourself without any help!!
 
 I'm sure I'll write a lot more interesting things in the future.
 
